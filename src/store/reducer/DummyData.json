@@ -3,7 +3,7 @@
         "id": 42312,
         "location": "Atlanta, GA",
         "room": 3,
-        "img": "./living-room.jpeg",
+        "image": "./living-room.jpeg",
         "address": "2623 Honeysuckle Rd. NW",
         "lastOccupant": "Melissa Banks",
         "uid": 89029,
@@ -14,7 +14,7 @@
         "id": 89029,
         "location": "Decatur, GA",
         "room": 2,
-        "img": "./living-room.jpeg",
+        "image": "./living-room.jpeg",
         "address": "9870 Colonial Ave",
         "lastOccupant": "Frankie Vox",
         "uid": 33489,
@@ -22,10 +22,10 @@
         "balance": "($405.90)"
     },
     {
-        "id": 89029,
+        "id": 12341,
         "location": "Atlanta, GA",
         "room": 6,
-        "img": "./living-room.jpeg",
+        "image": "./living-room.jpeg",
         "address": "1822 Riverside Dr. SW",
         "lastOccupant": "Harry Rutherford",
         "uid": 33489,
@@ -33,10 +33,10 @@
         "balance": "($405.90)"
     },
     {
-        "id": 89029,
+        "id": 73452,
         "location": "Decatur, GA",
         "room": 4,
-        "img": "./living-room.jpeg",
+        "image": "./living-room.jpeg",
         "address": "990 Garden St.",
         "lastOccupant": "Charke Brast",
         "uid": 33489,
@@ -44,10 +44,10 @@
         "balance": "($405.90)"
     },
     {
-        "id": 89029,
+        "id": 98745,
         "location": "Buckhead, GA",
         "room": 1,
-        "img": "./living-room.jpeg",
+        "image": "./living-room.jpeg",
         "address": "3548 Moose Rd. NE Apt 90",
         "lastOccupant": "Eric Van",
         "uid": 33489,
@@ -55,10 +55,10 @@
         "balance": "($405.90)"
     },
     {
-        "id": 89029,
+        "id": 23461,
         "location": "Morrow, GA",
         "room": 5,
-        "img": "./living-room.jpeg",
+        "image": "./living-room.jpeg",
         "address": "7659 Brookfield Ave",
         "lastOccupant": "Jerry Tallah",
         "uid": 33489,
@@ -66,10 +66,10 @@
         "balance": "($405.90)"
     },
     {
-        "id": 89029,
+        "id": 63456,
         "location": "Atlanta, GA",
         "room": 3,
-        "img": "./living-room.jpeg",
+        "image": "./living-room.jpeg",
         "address": "390 Washington Rd.",
         "lastOccupant": "Olivia Darks",
         "uid": 33489,
